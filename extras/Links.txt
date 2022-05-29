@@ -1,0 +1,17 @@
+https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
+https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+https://pysource.com/2019/03/12/face-landmarks-detection-opencv-with-python/
+https://realpython.com/face-recognition-with-python/#installing-opencv
+https://gist.github.com/nikgens/da582d745fa2bf0ddd8f5f7480042291
+https://realpython.com/face-detection-in-python-using-a-webcam/
+
+http://www.face-rec.org/databases/
+http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html
+http://www.ivl.disco.unimib.it/activities/large-age-gap-face-verification/
+https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+http://vismod.media.mit.edu/vismod/classes/mas622-00/datasets/
+http://www.vision.caltech.edu/html-files/archive.html
+https://cswww.essex.ac.uk/mv/allfaces/faces94.html
+http://www.anefian.com/research/face_reco.htm
+http://conradsanderson.id.au/lfwcrop/
+http://ufi.kiv.zcu.cz/
